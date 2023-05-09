@@ -1,40 +1,30 @@
 ### <img src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Hi.gif" width="29px"> Hola Mundo!&nbsp;<img src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Earth.gif" width="24px">
 <p>Actualmente soy estudiante de Administración de Sistemas informáticos de la <a href="https://unal.edu.co/"><b>Universidad Nacional de Colombia</b></a>. 
 Desde muy temprano en mi vida comencé a enamorarme de la tecnología, fue así que inicie mis estudios en el <a href="sena.edu.co">SENA</a>, de donde obtuve mi
-titulo de <em>Técnico en Sistemas</em> y con la cuál labore un año en el area de redes y mantenimiento de equipos de computo.
-Este amor me ha ayudado a desarrollar una mentalidad tecnológica muy buena, la que me impulso a ingresar a la universidad
+titulo de <em>Técnico en Sistemas</em> y con la cuál laboré en el area de redes y mantenimiento de equipos de computo.
+Este amor me ha ayudado a desarrollar una mentalidad tecnológica muy buena, la que me impulso a ingresar a la universidad.
 <img src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/PC.gif" height="20px"/>, 
 y me dio la curiosidad de aprender más.</p>
 <br/>
 ## Sobre mí :computer: 
 - **Competencias en la programación de software**
-	- Python ❤️
-	- Java
-	- Some C++
+	**Programación de software:** Me encanta la programación, especialmente en Python, mi lenguaje de programación favorito, pero también tengo habilidades en Java y C++.
+	**Desarrollo web:** Me encanta el desarrollo web, especialmente en el stack TALL (TailwindCSS, AlpineJS, Laravel, Livewire) ❤️, pero también tengo habilidades en NodeJS.
+	**Ciencias de datos:** Me encanta el análisis de datos, especialmente en Python.
+	**AI:** Me encanta la inteligencia artificial, especialmente en Python.
+	**Base de datos:** Me gustan la base de datos, especialmente en MySQL, pero también tengo habilidades en PostgreSQL, SQLServer.
 
 <img align="right" src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Developer.gif"/>
 
-- **Desarrollo web**
-	- HTML
-	- CSS
-	- Javascript
-	- Stack TALL (TailwindCSS, AlpineJS, Laravel, Livewire) ❤️
-    - NodeJS 
 - **Tecnologías**
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<code><a href="https://azure.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
-<code><a href="https://wordpress.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
-<code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
-<br/><br/>
-
-
+<br/>
 
 ## 🌱 Actualmente estoy aprendiendo sobre ...
 - **Ciencias de datos**
 - **AI**
+- **Desarrollo web**
 <br/>
   <br/>
 
