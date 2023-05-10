@@ -8,7 +8,7 @@
 	- <b>Ciencias de datos:</b> <em> Disfruto manejar datasets, el análisis de datos, y la inteligencia de negocio que de allí surge, para ello trabajo en Python. </em>
 	- <b>Base de datos:</b> <em> Me gustan la base de datos, especialmente en MySQL, pero también tengo habilidades en PostgreSQL, SQLServer. </em>
 
-<img align="right" src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Developer2.gif"/>
+<img align="right" src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Developer.gif"/>
 
 - **Tecnologías**
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
