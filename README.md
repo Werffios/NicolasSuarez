@@ -1,17 +1,16 @@
 ### <img src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Hi.gif" width="29px"> Hola Mundo!&nbsp;<img src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Earth.gif" width="24px">
-<p>Actualmente soy estudiante de Administración de Sistemas informáticos de la <a href="https://unal.edu.co/"><b>Universidad Nacional de Colombia</b></a>. 
+<p>Hola, soy Nicolás, actualmente soy estudiante de <em> Administración de Sistemas informáticos de la <a href="https://unal.edu.co/"><b>Universidad Nacional de Colombia</b></a></em>.<br> 
 Desde muy temprano en mi vida comencé a enamorarme de la tecnología, fue así que inicie mis estudios en el <a href="sena.edu.co">SENA</a>, de donde obtuve mi
 titulo de <em>Técnico en Sistemas</em> y con la cuál laboré en el area de redes y mantenimiento de equipos de computo.
 Este amor me ha ayudado a desarrollar una mentalidad tecnológica muy buena, la que me impulso a ingresar a la universidad.
 <img src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/PC.gif" height="20px"/>, 
 y me dio la curiosidad de aprender más.</p>
 <br/>
-## Sobre mí :computer: 
-- **Competencias en la programación de software**
-	**Programación de software:** Me encanta la programación, especialmente en Python, mi lenguaje de programación favorito, pero también tengo habilidades en Java y C++.
-	**Desarrollo web:** Me encanta el desarrollo web, especialmente en el stack TALL (TailwindCSS, AlpineJS, Laravel, Livewire) ❤️, pero también tengo habilidades en NodeJS.
-	**Ciencias de datos:** Me encanta el análisis de datos, especialmente en Python.
-	**AI:** Me encanta la inteligencia artificial, especialmente en Python.
+## Sobre mi :computer: 
+- **Competencias en Programación**
+	- Programación de software:** Me encanta la programación, especialmente en Python ❤️, mi lenguaje de programación favorito, pero también tengo habilidades en Java y C++.
+	**Desarrollo web:** Me encanta el desarrollo web, especialmente en el stack TALL (TailwindCSS, AlpineJS, Laravel, Livewire) ❤️, también tengo habilidades en NodeJS.
+	**Ciencias de datos:** Disfruto manejar datasets, el análisis de datos, y la inteligencia de negocio que de allí surge, para ello trabajo en Python.
 	**Base de datos:** Me gustan la base de datos, especialmente en MySQL, pero también tengo habilidades en PostgreSQL, SQLServer.
 
 <img align="right" src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Developer.gif"/>
