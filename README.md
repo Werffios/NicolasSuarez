@@ -34,7 +34,7 @@ As a knowledge-driven student with a strong passion for development, I am seekin
 * **[SmartInventory](https://github.com/Werffios/SmartInventory):** Inventory System for Asset Management, project developed as a requirement for the Software Engineering II course. As an integrated inventory management platform, our SMART INVENTORY solution is specifically designed to meet the needs of universities in asset management.
 * **[GraphUIinteractive](https://github.com/Werffios/GraphUIinteractive):** The project is an interactive application developed in Python 3 for creating, analyzing, and studying graphs. Users can graph different types of graphs, apply partition algorithms, and export the created graphs in various formats.
 
-## 📚 Education
+# 📚 Education
 
 * **Attending** Computer System Management
     * Bachelor’s degree
@@ -76,13 +76,13 @@ As a knowledge-driven student with a strong passion for development, I am seekin
 - **Web development, new frameworks**
 - **Software development, new languages**
 
-## 📊 Stats
+# 📊 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=werffios&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </div>
 
 
-## 📫 Contact
+# 📫 Contact
 
 <div align="center">
   <h3 align="center">Conectate conmigo<img align="center" src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Handshake.gif" height="33px" /></h3> 
