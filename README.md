@@ -4,10 +4,10 @@ As a knowledge-driven student with a strong passion for development, I am seekin
 
 # 🙋‍♂️ About Me :computer:
 - ## **Programming Competences**
-  <img height="200" align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"/>
+  <img height="200" align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt=""/>
 
   - <b>Software programming:</b> <em> I love programming, especially in Python ❤️, my favorite programming language, but I also have skills in Java and C++. </em>
-  - <b>Web development:</b> <em> I love web development, especially in the TALL stack (TailwindCSS, AlpineJS, Laravel, Livewire) ❤️, I also have skills in NodeJS and currently learning Django. </em>
+  - <b>Web development:</b> <em> I love web development, especially in the TALL stack (TailwindCSS, AlpineJS, Laravel, Livewire) ❤️, I also have skills in Node.js and currently learning Django. </em>
   - <b>Data science:</b> <em> I enjoy handling datasets, data analysis, and the business intelligence that arises from it, for this I work in Python. </em>
   - <b>Database:</b> <em> I like the database, especially in MySQL, but I also have skills in PostgreSQL and SQLServer. </em>
   - <b>Linux:</b> <em> I like Linux, I have skills in Ubuntu and Wifislax. </em>
@@ -85,7 +85,7 @@ As a knowledge-driven student with a strong passion for development, I am seekin
 # 📫 Contact
 
 <div align="center">
-  <h3 align="center">Conectate conmigo<img align="center" src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Conectate conmigo<img align="center" src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Handshake.gif" height="33px" alt=""/></h3> 
 </div>
 <div align="center">
 	<a href="https://www.linkedin.com/in/nicolassuarezrodriguez/" target="blank">
