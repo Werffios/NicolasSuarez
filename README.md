@@ -1,8 +1,8 @@
-## <img src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Hi.gif" width="29px"> Hola Mundo!&nbsp;<img src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Earth.gif" width="24px">
+# <img src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Hi.gif" width="29px"> Hola Mundo!&nbsp;<img src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Earth.gif" width="24px">
 As a knowledge-driven student with a strong passion for development, I am seeking an opportunity to utilize my diverse skillset in front-end development, back-end database management, and data analysis. I am eager to join a team where I can contribute my problem-solving mindset and creativity to develop innovative solutions that elevate user experiences and fuel business growth.
 <br>
 
-# 🙋‍♂️ About Me :computer:
+# 🙋‍♂️ About Me :earth_americas:
 - ## **Programming Competences**
   <img height="200" align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"/>
 
@@ -10,69 +10,66 @@ As a knowledge-driven student with a strong passion for development, I am seekin
   - <b>Web development:</b> <em> I love web development, especially in the TALL stack (TailwindCSS, AlpineJS, Laravel, Livewire) ❤️, I also have skills in NodeJS and currently learning Django. </em>
   - <b>Data science:</b> <em> I enjoy handling datasets, data analysis, and the business intelligence that arises from it, for this I work in Python. </em>
   - <b>Database:</b> <em> I like the database, especially in MySQL, but I also have skills in PostgreSQL, SQLServer. </em>
+  - <b>Linux:</b> <em> I like Linux, I have skills in Ubuntu and Wifislax. </em>
+  - <b>Git:</b> <em> I like Git, I have skills in Git, GitHub and GitLab. </em>
 
+# (icon) Technologies & Tools
 
-
-- ## **Technologies**
-<code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code> 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://www.djangoproject.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
-<code><a href="https://www.laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
-<code><a href="https://www.tailwindcss.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></a></code>
-<code><a href="https://www.github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
-<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+[![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)](https://www.w3.org/html/)
+[![CSS](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)](https://www.javascript.com/)
+[![PHP](https://www.vectorlogo.zone/logos/php/php-ar21.svg)](https://www.php.net/)
+[![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)](https://www.java.com/)
+[![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/)
+[![Linux](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)](https://www.linux.org/)
+[![Django](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg)](https://www.djangoproject.com/)
+[![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)](https://www.laravel.com/)
+[![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg)](https://www.tailwindcss.com/)
+[![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://www.github.com/)
+[![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)](https://www.mysql.com/)
 
 
 # 📁 Projects
-- ## [SmartInventory](https://github.com/Werffios/SmartInventory): 
-<em> Inventory System for Asset Management, project developed as a requirement for the Software Engineering II course. As an integrated inventory management platform, our SMART INVENTORY solution is specifically designed to meet the needs of universities in asset management. </em>
-- ## [GraphUIinteractive](https://github.com/Werffios/GraphUIinteractive):
-<em> The project is an interactive application developed in Python 3 for creating, analyzing, and studying graphs. Users can graph different types of graphs, apply partition algorithms, and export the created graphs in various formats. </em>
 
-# 📚 Education
-Attending	Computer System Management
-Bachelor’s degree 
-Universidad Nacional de Colombia
+* **[SmartInventory](https://github.com/Werffios/SmartInventory):** Inventory System for Asset Management, project developed as a requirement for the Software Engineering II course. As an integrated inventory management platform, our SMART INVENTORY solution is specifically designed to meet the needs of universities in asset management.
+* **[GraphUIinteractive](https://github.com/Werffios/GraphUIinteractive):** The project is an interactive application developed in Python 3 for creating, analyzing, and studying graphs. Users can graph different types of graphs, apply partition algorithms, and export the created graphs in various formats.
 
-2023	Practical Course of Django: Web Backend Development with Python.
-Udemy
+## 📚 Education
 
-Macroentrenamiento en Inteligencia Artificial 
-Universidad Autónoma de México y
-la Red de Macrouniversidades de América Latina
-y el Caribe
+* **Attending** Computer System Management
+    * Bachelor’s degree
+    * Universidad Nacional de Colombia
 
-Python for Engineers Course
-		ESSS
-		
-		Web Application Technologies and Django
-		University of Michigan
+* **2023**
+    * Practical Course of Django: Web Backend Development with Python.
+        * Udemy
+    * Macroentrenamiento en Inteligencia Artificial
+        * Universidad Autónoma de México y
+          la Red de Macrouniversidades de América Latina
+          y el Caribe
+    * Python for Engineers Course
+        * ESSS
+    * Web Application Technologies and Django
+        * University of Michigan
+    * Programming Foundations with JavaScript, HTML (honors)
+        * Duke University
 
-		Programming Foundations with JavaScript, HTML (honors)
-		Duke University
+* **2022**
+    * Aptitude assessment badge: HTML
+        * LinkedIn
+    * Aptitude assessment badge: Python
+        * LinkedIn
+    * Aptitude assessment badge: Git
+        * LinkedIn
 
-2022		Aptitude assessment badge: HTML
-		LinkedIn
+* **2021**
+    * FT ES - Web Design with HTML5 + CSS
+        * Telefonica foundation
 
-		Aptitude assessment badge: Python
-		LinkedIn
-		
-		Aptitude assessment badge: Git
-		LinkedIn
-
-
-2021		FT ES - Web Design with HTML5 + CSS
-		Telefonica foundation
-		
-2017		Systems Technician
-		Technical Professional Program
-Servicio Nacional de Aprendizaje
-
-# 📚 Education (Now with beatiful icons)
-
-
+* **2017**
+    * Systems Technician
+        * Technical Professional Program
+        * Servicio Nacional de Aprendizaje
 
 # 🌱 I’m currently learning about ...
 - **Data science, deepening in python**
