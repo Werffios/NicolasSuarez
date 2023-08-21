@@ -2,7 +2,7 @@
 As a knowledge-driven student with a strong passion for development, I am seeking an opportunity to utilize my diverse skillset in front-end development, back-end database management, and data analysis. I am eager to join a team where I can contribute my problem-solving mindset and creativity to develop innovative solutions that elevate user experiences and fuel business growth.
 <br>
 
-# 🙋‍♂️ About Me :earth_americas:
+# 🙋‍♂️ About Me :computer:
 - ## **Programming Competences**
   <img height="200" align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"/>
 
@@ -13,7 +13,7 @@ As a knowledge-driven student with a strong passion for development, I am seekin
   - <b>Linux:</b> <em> I like Linux, I have skills in Ubuntu and Wifislax. </em>
   - <b>Git:</b> <em> I like Git, I have skills in Git, GitHub and GitLab. </em>
 
-# (icon) Technologies & Tools
+# ⚒️ Technologies & Tools
 
 [![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)](https://www.w3.org/html/)
 [![CSS](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg)](https://www.w3.org/Style/CSS/)
