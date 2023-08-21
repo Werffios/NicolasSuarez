@@ -36,9 +36,10 @@ As a knowledge-driven student with a strong passion for development, I am seekin
 
 # 📚 Education
 
-* **Attending** Computer System Management
-    * Bachelor’s degree
-    * Universidad Nacional de Colombia
+* **Attending** 
+    * Computer System Management - Bachelor’s degree
+        * Universidad Nacional de Colombia
+                
 
 * **2023**
     * Practical Course of Django: Web Backend Development with Python.
@@ -67,8 +68,7 @@ As a knowledge-driven student with a strong passion for development, I am seekin
         * Telefonica foundation
 
 * **2017**
-    * Systems Technician
-        * Technical Professional Program
+    * Systems Technician - Technical Professional Degree
         * Servicio Nacional de Aprendizaje
 
 # 🌱 I’m currently learning about ...
