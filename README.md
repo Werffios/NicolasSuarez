@@ -9,7 +9,7 @@ As a knowledge-driven student with a strong passion for development, I am seekin
   - <b>Software programming:</b> <em> I love programming, especially in Python ❤️, my favorite programming language, but I also have skills in Java and C++. </em>
   - <b>Web development:</b> <em> I love web development, especially in the TALL stack (TailwindCSS, AlpineJS, Laravel, Livewire) ❤️, I also have skills in NodeJS and currently learning Django. </em>
   - <b>Data science:</b> <em> I enjoy handling datasets, data analysis, and the business intelligence that arises from it, for this I work in Python. </em>
-  - <b>Database:</b> <em> I like the database, especially in MySQL, but I also have skills in PostgreSQL, SQLServer. </em>
+  - <b>Database:</b> <em> I like the database, especially in MySQL, but I also have skills in PostgreSQL and SQLServer. </em>
   - <b>Linux:</b> <em> I like Linux, I have skills in Ubuntu and Wifislax. </em>
   - <b>Git:</b> <em> I like Git, I have skills in Git, GitHub and GitLab. </em>
 
