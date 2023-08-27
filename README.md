@@ -34,6 +34,15 @@ As a knowledge-driven student with a strong passion for development, I am seekin
 * **[SmartInventory](https://github.com/Werffios/SmartInventory):** Inventory System for Asset Management, project developed as a requirement for the Software Engineering II course. As an integrated inventory management platform, our SMART INVENTORY solution is specifically designed to meet the needs of universities in asset management.
 * **[GraphUIinteractive](https://github.com/Werffios/GraphUIinteractive):** The project is an interactive application developed in Python 3 for creating, analyzing, and studying graphs. Users can graph different types of graphs, apply partition algorithms, and export the created graphs in various formats.
 
+# 🏆 Achievements and awards
+
+* **2023**
+    * [2nd place](Special Recognition for Macrotraining in Artificial Intelligence (MeIA) 2023
+      Issued by the Network of Macrouniversities of Latin America and the Caribbean )
+      
+      Recognition for my outstanding participation, achieving 2nd place in the development of the challenge "Automatic Identification of Crime Reports in Spanish Twitter Messages" in the Macrotraining in Artificial Intelligence (MeIA) 2023, organized by the Network of Macrouniversities of Latin America and the Caribbean.
+
+
 # 📚 Education
 
 * **Attending** 
