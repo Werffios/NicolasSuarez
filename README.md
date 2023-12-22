@@ -23,31 +23,44 @@ As a knowledge-driven student with a strong passion for development, I am seekin
 
 # ⚒️ Technologies & Tools
 
-[![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)](https://www.w3.org/html/)
-[![CSS](https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)](https://www.javascript.com/)
-[![PHP](https://www.vectorlogo.zone/logos/php/php-ar21.svg)](https://www.php.net/)
-[![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)](https://www.java.com/)
-[![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/)
-[![Linux](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)](https://www.linux.org/)
-[![Django](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg)](https://www.djangoproject.com/)
-[![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)](https://www.laravel.com/)
-[![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg)](https://www.tailwindcss.com/)
-[![GitHub](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://www.github.com/)
-[![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)](https://www.mysql.com/)
+|                                                                                                                         |                                                                                                                                               |                                                                                                                            |                                                                                                                                |
+|:-----------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
+|  <figure><img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100"/><figcaption>HTML</figcaption></figure>  |              <figure><img src="https://www.svgrepo.com/show/452185/css-3.svg" width="100"/><figcaption>CSS</figcaption></figure>              |  <figure><img src="https://www.svgrepo.com/show/452045/js.svg" width="100"/><figcaption>JavaScript</figcaption></figure>   |       <figure><img src="https://www.svgrepo.com/show/373969/php2.svg" width="100"/><figcaption>PHP</figcaption></figure>       |
+|   <figure><img src="https://www.svgrepo.com/show/452234/java.svg" width="100"/><figcaption>Java</figcaption></figure>   |            <figure><img src="https://www.svgrepo.com/show/374016/python.svg" width="100"/><figcaption>Python</figcaption></figure>            |   <figure><img src="https://www.svgrepo.com/show/448236/linux.svg" width="100"/><figcaption>Linux</figcaption></figure>    |    <figure><img src="https://www.svgrepo.com/show/448225/github.svg" width="100"/><figcaption>GitHub</figcaption></figure>     |
+| <figure><img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="100"/><figcaption>GitLab</figcaption></figure> |            <figure><img src="https://www.svgrepo.com/show/373554/django.svg" width="100"/><figcaption>Django</figcaption></figure>            | <figure><img src="https://www.svgrepo.com/show/353985/laravel.svg" width="100"/><figcaption>Laravel</figcaption></figure>  | <figure><img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="100"/><figcaption>TailwindCSS</figcaption></figure> |
+|  <figure><img src="https://www.svgrepo.com/show/373848/mysql.svg" width="100"/><figcaption>MySQL</figcaption></figure>  | <figure><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="100"/><figcaption>SQLServer</figcaption></figure> | <figure><img src="https://www.svgrepo.com/show/373965/pgsql.svg" width="100"/><figcaption>PostgreSQL</figcaption></figure> |                                                            <figure>                                                            |
+
 
 # 📁 Projects
 
 * **[SmartInventory](https://github.com/Werffios/SmartInventory):** Inventory System for Asset Management, project developed as a requirement for the Software Engineering II course. As an integrated inventory management platform, our SMART INVENTORY solution is specifically designed to meet the needs of universities in asset management.
 * **[GraphUIinteractive](https://github.com/Werffios/GraphUIinteractive):** The project is an interactive application developed in Python 3 for creating, analyzing, and studying graphs. Users can graph different types of graphs, apply partition algorithms, and export the created graphs in various formats.
 
+# 👨‍💻 Professional Experience
+
+* Data Specialist level 2
+    * Pidgin, 2023 - Present (Current Position)
+    * I am a med-level professional in the field of SQL, specializing in database management and administration. My primary role involves the creation, modification, and deletion of various database elements, including views, stored procedures, scheduled jobs, and tables. My contribution is essential for maintaining the integrity and efficiency of the organization's databases.
+* Becario
+    * Universidad Nacional de Colombia, Feb - Jul 2022 and 2023
+        * I am a junior-level professional in the field of networking and software, specializing in the management and administration of laboratories. My primary role involves the planning and execution of laboratory practices, as well as monitoring Cisco courses. I also provide support in the development of related projects. My contribution is essential in maintaining the integrity and efficiency of the university’s laboratory practices.
+
+
 # 📚 Education
 
-* **Attending** 
+* **2024** 
     * Computer System Management - Bachelor’s degree
         * Universidad Nacional de Colombia
 
 * **2023**
+    * Minicurso Python y ChatGPT - Crea Chatbots y Soluciones IA.
+        * Udemy
+    * Máster en SQL Server.
+        * Udemy
+    * Python TOTAL - Programador Avanzado.
+        * Udemy
+    * Inicia con TALL Usa Tailwind, Alpine, Laravel y Livewire.
+        * Udemy
     * Practical Course of Django: Web Backend Development with Python.
         * Udemy
     * Macroentrenamiento en Inteligencia Artificial
