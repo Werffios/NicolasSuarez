@@ -1,17 +1,26 @@
-# <img src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Hi.gif" width="29px"> Hola Mundo!&nbsp;<img src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Earth.gif" width="24px">
-As a knowledge-driven student with a strong passion for development, I am seeking an opportunity to utilize my diverse skillset in front-end development, back-end database management, and data analysis. I am eager to join a team where I can contribute my problem-solving mindset and creativity to develop innovative solutions that elevate user experiences and fuel business growth.
-<br>
+# Hello, I'm Nicolás 👋🏼
 
 # 🙋‍♂️ About Me :computer:
 - ## **Programming Competences**
   <img height="200" style="float: right; vertical-align: middle;" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt=""/>
 
-  - <b>Software programming:</b> <em> I love programming, especially in Python ❤️, my favorite programming language, but I also have skills in Java and C++. </em>
-  - <b>Web development:</b> <em> I love web development, especially in the TALL stack (TailwindCSS, AlpineJS, Laravel, Livewire) ❤️, I also have skills in Node.js and currently learning Django. </em>
-  - <b>Data science:</b> <em> I enjoy handling datasets, data analysis, and the business intelligence that arises from it, for this I work in Python. </em>
-  - <b>Database:</b> <em> I like the database, especially in MySQL, but I also have skills in PostgreSQL and SQLServer. </em>
-  - <b>Linux:</b> <em> I like Linux, I have skills in Ubuntu and Wifislax. </em>
-  - <b>Git:</b> <em> I like Git, I have skills in Git, GitHub and GitLab. </em>
+    - <b>Software programming:</b> <em> I love programming, especially in Python ❤️, my favorite programming language, but I also have skills in Java and C++. </em>
+    - <b>Web development:</b> <em> I love web development, especially in the TALL stack (TailwindCSS, AlpineJS, Laravel, Livewire) ❤️, I also have skills in Node.js and currently learning Django. </em>
+    - <b>Data science:</b> <em> I enjoy handling datasets, data analysis, and the business intelligence that arises from it, for this I work in Python. </em>
+    - <b>Database:</b> <em> I like the database, especially in MySQL, but I also have skills in PostgreSQL and SQLServer. </em>
+    - <b>Linux:</b> <em> I like Linux, I have skills in Ubuntu and Wifislax. </em>
+    - <b>Git:</b> <em> I like Git, I have skills in Git, GitHub and GitLab. </em>
+    - <b>Networking:</b> <em> I like networking, I have skills in Cisco, Packet Tracer and GNS3. </em>
+
+## Index
+- [Achievements and awards](#-achievements-and-awards)
+- [Technologies & Tools](#-technologies--tools)
+- [Projects](#-projects)
+- [Professional Experience](#-professional-experience)
+- [Education](#-education)
+- [I’m currently learning about ...](#-im-currently-learning-about-)
+- [Stats](#-stats)
+- [Contact](#-contact)
 
 # 🏆 Achievements and awards
 
