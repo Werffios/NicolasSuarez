@@ -4,7 +4,7 @@ As a knowledge-driven student with a strong passion for development, I am seekin
 
 # 🙋‍♂️ About Me :computer:
 - ## **Programming Competences**
-  <img height="200" align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt=""/>
+  <img height="200" style="float: right; vertical-align: middle;" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt=""/>
 
   - <b>Software programming:</b> <em> I love programming, especially in Python ❤️, my favorite programming language, but I also have skills in Java and C++. </em>
   - <b>Web development:</b> <em> I love web development, especially in the TALL stack (TailwindCSS, AlpineJS, Laravel, Livewire) ❤️, I also have skills in Node.js and currently learning Django. </em>
@@ -96,21 +96,21 @@ As a knowledge-driven student with a strong passion for development, I am seekin
 - **Software development, new languages**
 
 # 📊 Stats
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=werffios&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </div>
 
-
 # 📫 Contact
 
-<div align="center">
-  <h3 align="center">Conectate conmigo<img align="center" src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Handshake.gif" height="33px" alt=""/></h3> 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <h3>Conectate conmigo<img style="vertical-align: middle;" src="https://github.com/Werffios/NicolasSuarez/blob/109b2341f88f0ae92b137f9f5e5b636d28f8136d/Assets/Handshake.gif" height="33px" alt=""/></h3> 
 </div>
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
 	<a href="https://www.linkedin.com/in/nicolassuarezrodriguez/" target="blank">
-		<img align="center" alt="Pramod's LinkedIn" width="50px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+		<img alt="Pramod's LinkedIn" width="50px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />    
 	</a>
 		<h2> Thanks for stopping by! </h2>
 	<br/>
 </div>
+
 <!-- <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwerffios%2F" /></p> -->
