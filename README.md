@@ -60,6 +60,8 @@
 * **2024** 
     * Computer System Management - Bachelor’s degree
         * Universidad Nacional de Colombia
+    * Building Web Applications in Django
+        * University of Michigan
 
 * **2023**
     * Minicurso Python y ChatGPT - Crea Chatbots y Soluciones IA.
